@@ -10,10 +10,12 @@ import {
     faSignOut,
     faUser,
 } from '@fortawesome/free-solid-svg-icons';
+import { Link } from 'react-router-dom';
 
 import Tippy from '@tippyjs/react';
 import 'tippy.js/dist/tippy.css';
 
+import routesConfig from '~/config/routes';
 import Button from '~/components/Button';
 import styles from './Header.module.scss';
 import images from '~/assets/images';
@@ -74,7 +76,12 @@ function Header() {
 
     // Handle logic
     const handleMenuChange = (menuItem) => {
-        console.log(menuItem);
+        switch (menuItem.type) {
+            case 'language':
+                // Handle change language
+                break;
+            default:
+        }
     };
 
     const userMenu = [
@@ -105,9 +112,9 @@ function Header() {
     return (
         <header className={cx('wrapper')}>
             <div className={cx('inner')}>
-                <div className={cx('logo')}>
+                <Link to={routesConfig.home} className={cx('logo-link')}>
                     <img src={images.logo} alt="Tiktok" />
-                </div>
+                </Link>
                 <Search />
                 <div className={cx('actions')}>
                     {currentUser ? (
@@ -138,10 +145,9 @@ function Header() {
                     <Menu items={currentUser ? userMenu : MENU_ITEMS} onChange={handleMenuChange}>
                         {currentUser ? (
                             <Image
-                                src="https://easydrawingguides.com/wp-content/uploads/2017/04/How-to-draw-a-baby-20.pngmmmmmmmmmmmmmm"
-                                alt="Gia Huy"
                                 className={cx('user-avatar')}
-                                fallback="https://fullstack.edu.vn/static/media/f8-icon.18cd71cfcfa33566a22b.png"
+                                src="https://easydrawingguides.com/wp-content/uploads/2017/04/How-to-draw-a-baby-20.png"
+                                alt="Gia Huy"
                             />
                         ) : (
                             <button className={cx('more-btn')}>
