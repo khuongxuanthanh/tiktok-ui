@@ -55,6 +55,303 @@ const MENU_ITEMS = [
                         ],
                     },
                 },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'en',
+                    title: 'English',
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'en',
+                    title: 'English',
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
+                {
+                    code: 'vn',
+                    title: 'Tieng Viet',
+                    children: {
+                        title: 'Leanguage',
+                        data: [
+                            {
+                                code: 'ki',
+                                title: 'Kinh',
+                            },
+                            {
+                                code: 'hm',
+                                title: 'H`Mong',
+                            },
+                        ],
+                    },
+                },
             ],
         },
     },
