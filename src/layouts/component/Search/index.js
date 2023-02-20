@@ -4,7 +4,7 @@ import classNames from 'classnames/bind';
 import styles from './Search.module.scss';
 import HeadlessTippy from '@tippyjs/react/headless'; // different import path!
 
-import * as searchServices from '~/api-services/searchServices';
+import * as searchServices from '~/services/searchService';
 import { Wrapper as PopperWrapper } from '~/components/Popper';
 import AccountItem from '~/components/AccountItem';
 import { faCircleXmark, faSpinner } from '@fortawesome/free-solid-svg-icons';
